@@ -6,6 +6,8 @@ the Link of Video Challenge : https://youtu.be/LzKt8GaoFMs
 ### And Add newSection with this information in our page html & you can delete it from button delete
 ### When you click in button delete the application remove this equal information from LocalStorage.
 ## You Can see This Page from this link :
-https://akram19-setif.github.io/PureBomChallenge/![Annot](https://user-images.githubusercontent.com/68381041/158701343-21d6fe6f-00ec-4a12-ab93-0feb1ae92f29.png)
+https://akram19-setif.github.io/PureBomChallenge/
+
+e.g : ![Annot](https://user-images.githubusercontent.com/68381041/158701343-21d6fe6f-00ec-4a12-ab93-0feb1ae92f29.png)
 
 ### Thank you for reading.
